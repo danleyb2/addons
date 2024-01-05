@@ -1,1 +1,1 @@
-# hassos-addons
+# ha-addons
